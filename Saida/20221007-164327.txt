@@ -1,0 +1,8 @@
+Brazil           23.81%
+Canada           23.81%
+United States    23.81%
+Australia        14.29%
+France           14.29%
+Name: location.country, dtype: objectmale      52.38%
+female    47.62%
+Name: gender, dtype: object
